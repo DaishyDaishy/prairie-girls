@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome our little page
 
-You can use the [editor on GitHub](https://github.com/DaishyDaishy/prairie-girls/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am trying a [Test Page](https://github.com/DaishyDaishy/prairie-girls/edit/master/test.md) to see if I am getting the hang of this plae
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
