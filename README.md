@@ -1,6 +1,6 @@
 ## Welcome our little page
 
-I am trying a [Test Page](https://github.com/DaishyDaishy/prairie-girls/edit/master/test) to see if I am getting the hang of this plae
+I am trying a [Test Page](https://www.flickr.com/photos/186990742@N07/) to see if I am getting the hang of this plae
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
