@@ -1,12 +1,10 @@
 ## Welcome our little page
 
-I am trying a [Test Page](https://www.flickr.com/photos/186990742@N07/) to see if I am getting the hang of this plae
+YAY! The [Flickr Page](https://www.flickr.com/photos/186990742@N07/) is started!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Net task :P
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Today I will try to get this page to be the default for our website! Wishing myself luck!
 
 ```markdown
 Syntax highlighted code block
