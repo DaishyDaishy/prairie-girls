@@ -12,6 +12,11 @@ Something awesome will go in here...
 
 ```
 
+First Header | Second Header
+------------ | -------------
+![picture](https://user-images.githubusercontent.com/52711302/75609090-5807f980-5acb-11ea-90e0-8f5913ee9c29.jpg) | ![picture](https://user-images.githubusercontent.com/52711302/75609090-5807f980-5acb-11ea-90e0-8f5913ee9c29.jpg)
+Content in the first column | Content in the second column
+
 ![picture](https://user-images.githubusercontent.com/52711302/75609090-5807f980-5acb-11ea-90e0-8f5913ee9c29.jpg)
 
 ### Menu Item or Topic
